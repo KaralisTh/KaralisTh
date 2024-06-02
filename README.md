@@ -61,11 +61,6 @@ Here are some of my notable projects:
 - **Diploma in IT**: Datalabs, 2024
 - **Management in Shipping**: IEK Alfa, 2015
 
-## Contributions to Open Source
-
-- **Project Name**: Brief description of your contribution.
-- **Repository**: [Link to the repository](#)
-
 ## Future Plans
 
 I am eager to continue expanding my knowledge in backend development and explore new technologies and frameworks. My goal is to contribute to innovative projects and grow as a developer.
@@ -78,5 +73,3 @@ Apart from coding, I enjoy:
 - Participating in hackathons and coding competitions
 
 Feel free to connect with me or check out my work. I'm always open to new opportunities and collaborations!
-
-Thank you for visiting my profile!
