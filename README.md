@@ -29,7 +29,7 @@ including **PHP**, **HTML**, **JavaScript**, and **WordPress**. Additionally, I 
 ## Contact Information
 
 - **Phone**: +30 6955569365
-- **LinkedIn**: [Your LinkedIn Profile](#) 
+- **LinkedIn**: [https://www.linkedin.com/in/theodore-karalis/]
 
 ## Projects
 
@@ -38,17 +38,17 @@ Here are some of my notable projects:
 ### Project Java - College Application 
 **Description**: In this project, we developed an application for college management, handling student registration, course assignments, grade assignments, and student card retrieval. This app simplifies the management of all student activities in one place.
 - **Technologies**: Java with JFrames and MySQL for database communication 
-- **Repository**: [College Application](#) (Replace with actual link)
+- **Repository**: [[College Application](https://github.com/KaralisTh/College-Management-App)]
 
 ### Project Python - Stadium Season Ticket Management
 **Description**: This project manages the season tickets of a team, handling ticket quantity and pricing through API Endpoints, and retrieving statistical data from APIs.
 - **Technologies**: Python, PostgreSQL
-- **Repository**: [Stadium Season Ticket Management](#) (Replace with actual link)
+- **Repository**: [Stadium Season Ticket Management](https://github.com/KaralisTh/SeasonTickets) 
 
 ### Project PHP - To Do List 
 **Description**: A simple to-do list project that connects to a database for user registration, task and note management. Users can manage their tasks and notes with different priorities, and mark tasks as done or delete them.
 - **Technologies**: PHP, MySQL
-- **Repository**: [To Do List](#) (Replace with actual link)
+- **Repository**: [To Do List](#)
 
 ## Education
 
