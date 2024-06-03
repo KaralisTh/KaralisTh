@@ -29,7 +29,7 @@ including **PHP**, **HTML**, **JavaScript**, and **WordPress**. Additionally, I 
 ## Contact Information
 
 - **Phone**: +30 6955569365
-- **LinkedIn**: https://www.linkedin.com/in/theodore-karalis/
+- **LinkedIn**: [Theodore Karalis](https://www.linkedin.com/in/theodore-karalis/)
 
 ## Projects
 
@@ -48,7 +48,7 @@ Here are some of my notable projects:
 ### Project PHP - To Do List 
 **Description**: A simple to-do list project that connects to a database for user registration, task and note management. Users can manage their tasks and notes with different priorities, and mark tasks as done or delete them.
 - **Technologies**: PHP, MySQL
-- **Repository**: [To Do List](#)
+- **Repository**: [To Do List](https://github.com/KaralisTh/To-do-list)
 
 ## Education
 
