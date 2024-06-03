@@ -38,7 +38,7 @@ Here are some of my notable projects:
 ### Project Java - College Application 
 **Description**: In this project, we developed an application for college management, handling student registration, course assignments, grade assignments, and student card retrieval. This app simplifies the management of all student activities in one place.
 - **Technologies**: Java with JFrames and MySQL for database communication 
-- **Repository**: [[College Application](https://github.com/KaralisTh/College-Management-App)]
+- **Repository**: [College Application](https://github.com/KaralisTh/College-Management-App)
 
 ### Project Python - Stadium Season Ticket Management
 **Description**: This project manages the season tickets of a team, handling ticket quantity and pricing through API Endpoints, and retrieving statistical data from APIs.
