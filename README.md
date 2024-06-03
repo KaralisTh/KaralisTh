@@ -29,7 +29,7 @@ including **PHP**, **HTML**, **JavaScript**, and **WordPress**. Additionally, I 
 ## Contact Information
 
 - **Phone**: +30 6955569365
-- **LinkedIn**: [https://www.linkedin.com/in/theodore-karalis/]
+- **LinkedIn**: https://www.linkedin.com/in/theodore-karalis/
 
 ## Projects
 
